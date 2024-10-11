@@ -1,0 +1,10 @@
+creds/google/credentials.json
+creds/google/token.json
+creds/openai/openai-key.json
+*.json
+log.txt
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
